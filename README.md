@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/2025-게임_소프트웨어_개발_2_팀_프로젝트-darkblue?style=for-the-badge)
+![](https://img.shields.io/badge/2025년_1학기_상명대학교_게임전공_게임개발공모전-darkblue?style=for-the-badge)![](https://img.shields.io/badge/우수상-yellow?style=for-the-badge)
+
 
 [<img src="images/cover.png" width="100%" height="auto">]()
 
