@@ -71,7 +71,7 @@
 
 | Profile | Name | Major | Role | Development | GitHub |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| <img src="https://github.com/ooohyunwooo.png" width="60" height="60"> | 조현우 | 휴먼AI공학전공<br>게임전공 | **팀장** | 보스 몬스터 **청룡** | [@ooohyunwooo](https://github.com/ooohyunwooo) |
+| <img src="https://github.com/nvunwoo.png" width="60" height="60"> | 조현우 | 휴먼AI공학전공<br>게임전공 | **팀장** | 보스 몬스터 **청룡** | [@nvunwoo](https://github.com/nvunwoo) |
 | <img src="https://github.com/JoJunHwan.png" width="60" height="60"> | 조준환 | 게임전공 | 게임 스토리 작가 | 주인공 **진헌** | [@JoJunHwan](https://github.com/JoJunHwan) |
 | <img src="https://github.com/???.png" width="60" height="60"> | 강민우 | 휴먼AI공학전공<br>게임전공 | 게임 컨셉 디자이너 | 보스 몬스터 **장산범** | [@???](https://github.com/???) |
 | <img src="https://github.com/YunseoC.png" width="60" height="60"> | 최윤서 | 한일문화콘텐츠전공<br>게임전공 | - | - | [@YunseoC](https://github.com/YunseoC) |
