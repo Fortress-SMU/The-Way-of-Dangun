@@ -11,19 +11,9 @@
 
 </div>
 
-> 환웅과 웅녀는 혼인하였고  
-> 그렇게 초대 단군이 탄생하였다.
-> 
-> 사계절이 여러 번 바뀌었고  
-> 이윽고 17대 단군 선출일이 되었다.
-> 
-> 환웅의 후손 중 하늘의 시험에 통과한 자는  
-> 그 누구든 단군의 자리에 오를 수 있었으니  
-> 많은 이들이 자격을 증명하고자 아사달로 모여들었다.  
-> 
-> "진헌" 또한 그 중 하나였으나  
-> 그의 목표는 단군의 계승이 아닌 다른 목적에 있었다.  
-> 진헌은 과연 하늘의 시험을 통과할 수 있을까?  
+> 게임 스토리 변경 예정  
+> 게임 스토리 변경 예정  
+> 게임 스토리 변경 예정  
 
 <br>
 
@@ -31,7 +21,16 @@
 
 <div align="center">
 
-| 스테이지 1 - _장산범_ |
+| 튜토리얼 |
+|:------:|
+| <img src="images/cover.png" width="100%" height="auto"/> |
+| 플레이어 스킬 소개 |
+| <img src="images/cover.png" width="100%" height="auto"/> |
+| 일반 몬스터 처치 |
+
+[![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+
+| 스테이지 1 - _백호_ |
 |:------:|
 | <img src="images/stage1Tiger.gif" width="100%" height="auto"/> |
 | 돌진 & 공격 |
@@ -67,13 +66,13 @@
 
 <br>
 
-## 🎮 포트리스 팀원 소개
+## 🎮 포트리스 멤버 | FORTRESS Members
 
 | Profile | Name | Major | Role | Development | GitHub |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | <img src="https://github.com/nvunwoo.png" width="60" height="60"> | 조현우 | 휴먼AI공학전공<br>게임전공 | 팀장 | 보스 몬스터 **청룡** | [@nvunwoo](https://github.com/nvunwoo) |
 | <img src="https://github.com/JoJunHwan.png" width="60" height="60"> | 조준환 | 게임전공 | 기획 & 스토리 | 주인공 **진헌** | [@JoJunHwan](https://github.com/JoJunHwan) |
-| <img src="https://github.com/DrugK.png" width="60" height="60"> | 강민우 | 휴먼AI공학전공<br>게임전공 | 게임 컨셉 디자인 | 보스 몬스터 **장산범** | [@DrugK](https://github.com/DrugK) |
+| <img src="https://github.com/DrugK.png" width="60" height="60"> | 강민우 | 휴먼AI공학전공<br>게임전공 | 게임 컨셉 디자인 | 보스 몬스터 **백호** | [@DrugK](https://github.com/DrugK) |
 | <img src="https://github.com/YunseoC.png" width="60" height="60"> | 최윤서 | 한일문화콘텐츠전공<br>게임전공 | 레벨 디자인 | 스테이지 & 몬스터 | [@YunseoC](https://github.com/YunseoC) |
 | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="60" height="60"> | 이예랑 | 컴퓨터과학전공 | - | 몬스터 | [@???](https://github.com) |
 
@@ -94,10 +93,6 @@
 | Version Control | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 | Documentation | ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) |
 | Communication | ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) |
-
-<br>
-
-<br>
 
 <br>
 
