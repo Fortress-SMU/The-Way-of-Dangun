@@ -17,6 +17,7 @@
 
 <br>
 
+
 ## 🎥 게임 플레이 시연 | Gameplay Demo
 
 <div align="center">
@@ -30,6 +31,9 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 
+<br>
+
+
 | 스테이지 1 - _백호_ |
 |:------:|
 | <img src="images/stage1Tiger.gif" width="100%" height="auto"/> |
@@ -40,6 +44,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/O0mS1DqJELk?si=j2CJLCFqCKM8ar9y)
 
 <br>
+
 
 | 스테이지 2 - _청룡_ |
 |:------:|
@@ -54,6 +59,7 @@
 
 <br>
 
+
 ## 🕹️ 조작 방법 | Controls
 
 | 기능 | 키 |
@@ -65,6 +71,7 @@
 | 원거리 공격 | 마우스 우클릭 |
 
 <br>
+
 
 ## 🎮 포트리스 멤버 | FORTRESS Members
 
@@ -83,6 +90,7 @@
 </div>
 
 <br>
+
 
 ## 🛠️ 개발 환경 | Tech Stack
 
